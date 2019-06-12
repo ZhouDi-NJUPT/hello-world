@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+He's got a partner in crime, his shit is equally dope
+
